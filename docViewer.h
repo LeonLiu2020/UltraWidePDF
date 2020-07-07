@@ -41,8 +41,6 @@ private:
 //    static docViewer* DOC;
 
 
-    static QScrollArea* scrollArea;
-    static QScrollBar* scrollBar;
     static QTabWidget* tabWidget;
 
 

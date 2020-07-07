@@ -20,14 +20,16 @@ SOURCES += \
     imageCache.cpp \
     main.cpp \
     mainwindow.cpp \
-    pdfUtils.cpp
+    pdfUtils.cpp \
+    singleDocViewer.cpp
 
 HEADERS += \
     docViewer.h \
     imageCache.h \
     mainwindow.h \
     pdfUtils.h \
-    singleDocViewer.h
+    singleDocViewer.h \
+    userCache.h
 
 FORMS += \
     mainwindow.ui
